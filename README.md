@@ -3,3 +3,4 @@
 ## JavaScript
 
 * [【ES6】Map与Set](https://github.com/qianxingW/blog/issues/1)
+* [【ES6】async/await剖析](https://github.com/qianxingW/blog/issues/2)
